@@ -1,5 +1,9 @@
 footer{
-    background-color: #05151d;
+   color:#fff!important;
+    background-color:#05151d!important;
+      text-align:center!important;
+     padding-top:64px!important;
+    padding-bottom:64px!important;
 }
 
 body {
