@@ -188,6 +188,7 @@ div.panel {
     padding: 0 18px;
     background-color: white;
     max-height: 0;
+    max-width: 360px;
     overflow: hidden;
     transition: 0.6s ease-in-out;
     opacity: 0;
@@ -196,4 +197,5 @@ div.panel {
 div.panel.show {
     opacity: 1;
     max-height: 500px;
+    max-width: 360px;
 }
