@@ -12,7 +12,8 @@
      text-align:center;
      cursor:pointer;
      white-space:nowrap;
-   
+     padding-top:16px!important;
+     padding-bottom:16px!important
      top: 50%;
      left: 40%;
      margin-right: 350px;
